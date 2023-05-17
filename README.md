@@ -13,6 +13,16 @@ Also see the launch article: [Introducing CC Accidenz Commons: An Open-Licensed 
 [blogpost]: https://creativecommons.org/2019/10/28/accidenz-commons-open-licensed-font/
 
 
+## OTF File Compiliation
+
+The OTF file can compiled with the following command:
+```shell
+fontmake --validate-ufo -u CC\ Accidenz\ Commons-medium.ufo -o otf --output-path CCAccidenzCommons-medium.otf
+```
+- [googlefonts/fontmake](https://github.com/googlefonts/fontmake): Compile
+  fonts from sources (UFO, Glyphs) to binary (OpenType, TrueType).
+
+
 ## License
 
 [![CC BY-SA 4.0 license button][cc-by-sa-png]][cc-by-sa]
