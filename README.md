@@ -13,7 +13,7 @@ Also see the launch article: [Introducing CC Accidenz Commons: An Open-Licensed 
 [blogpost]: https://creativecommons.org/2019/10/28/accidenz-commons-open-licensed-font/
 
 
-## OTF File Compiliation
+## OTF File Compilation
 
 The OTF file can compiled with the following command:
 ```shell
