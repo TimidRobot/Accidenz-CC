@@ -15,7 +15,7 @@ Also see the launch article: [Introducing CC Accidenz Commons: An Open-Licensed 
 
 ## OTF File Compilation
 
-The OTF file can compiled with the following command:
+The OpenType font (OTF) file can compiled with `fontmake`:
 ```shell
 fontmake --validate-ufo -u CC\ Accidenz\ Commons-medium.ufo -o otf --output-path CCAccidenzCommons-medium.otf
 ```
